@@ -1,0 +1,47 @@
+
+*{
+    padding: opx;
+    margin: opx;
+}
+body{
+    width: 800px;
+    margin: auto;
+}
+
+#top{
+    height: 100px;
+    background: aqua;
+    text-align: center;
+    line-height: 100px;
+
+}
+
+
+#menu{
+    height: 30px;
+    background: blanchedalmond;
+}
+
+#menu ul li{
+    list-style-type: none;
+    float: left;
+    width: 140px;
+    text-align: center;
+    line-height: 30px;
+
+}
+#menu ul li a{
+    text-decoration: none;
+}
+
+#details{
+    height: 400px;
+
+}
+
+#bottom{
+    height: 40px;
+    width: 800px;
+    margin: auto;
+    background: blue;
+}
